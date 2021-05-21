@@ -1,0 +1,7 @@
+Host git.ts.ruten.tw
+  Hostname git.ts.ruten.tw
+  User git
+  Port 30922
+  StrictHostKeyChecking no
+  PreferredAuthentications publickey
+  IdentityFile /root/.ssh/id_rsa
